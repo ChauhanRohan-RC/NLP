@@ -2,10 +2,11 @@
 
 #### Large scale NLP Sentiment Analysis and Spam Detection 
 
-###### See also 
-[Optical Character Recognizer](https://github.com/ChauhanRohan-RC/DigitRecognizer-AI.git)  
-[3D N*N Rubik's Cube solver-AI](https://github.com/ChauhanRohan-RC/Cube.git)  
-[Fourier Series Simulation](https://github.com/ChauhanRohan-RC/Fourier-Series.git)
+###### See also
+[Digit Recognizer-AI](https://github.com/ChauhanRohan-RC/DigitRecognizer-AI.git)  
+[Optical Character Recognizer-AI](https://github.com/ChauhanRohan-RC/OCR-AI.git)  
+[Ping-Pong Online Multiplayer-AI](https://github.com/ChauhanRohan-RC/Ping-Pong-AI.git)  
+[3D NxNxN Rubik's Cube Simulation with Solver](https://github.com/ChauhanRohan-RC/Cube.git)
 
 Up until now, this repository contains two NLP projects
 
